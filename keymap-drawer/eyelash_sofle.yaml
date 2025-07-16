@@ -51,7 +51,7 @@ layers:
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
-  - {t: '-', s: _}
+  - (ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD SLASH AND QUESTION MARK))
   - $$mdi:apple-keyboard-shift$$
   - RGB TOG
   - $$mdi:apple-keyboard-control$$
@@ -195,3 +195,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: LAYER0, h: toggle}
+combos:
+- p: [30, 34]
+  k: {t: COPY, h: toggle}
+- p: [29, 35]
+  k: PASTE
+- p: [31, 33]
+  k: CUT
