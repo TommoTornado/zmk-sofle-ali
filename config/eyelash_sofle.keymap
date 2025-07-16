@@ -91,7 +91,7 @@
 
         Zeichen {
             bindings = <
-&kp DE_ACUTE  &kp F1              &kp F2                &kp F3           &kp F4         &kp F5            &mmv MOVE_UP     &kp F6            &kp F7                                        &kp F8                            &kp F9                                &kp F10           &kp LS(F11)
+&kp DE_ACUTE  &kp F1              &kp F2                &kp F3           &kp F4         &kp F5            &mmv MOVE_UP     &kp F6            &kp F7                                        &kp F8                            &kp F9                                &kp F10           &kp F11
 &trans        &kp DE_EXCLAMATION  &kp DE_DOUBLE_QUOTES  &kp DE_SECTION   &kp DE_DOLLAR  &kp DE_PERCENT    &mmv MOVE_DOWN   &kp DE_AMPERSAND  &trans                                        &trans                            &trans                                &trans            &kp F12
 &trans        &kp DE_PLUS         &kp DE_MINUS          &kp DE_ASTERISK  &kp DE_SLASH   &kp DE_EQUAL      &mmv MOVE_LEFT   &kp CARET         &mt DE_RIGHT_PARENTHESIS DE_LEFT_PARENTHESIS  &mt DE_RIGHT_BRACE DE_LEFT_BRACE  &mt DE_RIGHT_BRACKET DE_LEFT_BRACKET  &kp DE_BACKSLASH  &trans
 &trans        &trans              &trans                &trans           &trans         &trans            &mmv MOVE_RIGHT  &trans            &trans                                        &kp DE_SEMICOLON                  &kp DE_COLON                          &trans            &trans
